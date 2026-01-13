@@ -1,0 +1,42 @@
+# Ignore downloaded files
+downloads/
+*.epub
+*.mobi
+*.azw
+*.azw3
+
+# Ignore converted files
+temp/
+*.pdf
+
+# Ignore output
+output/
+
+# Ignore session data
+data/
+*.session
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp files
+*.tmp
+*.log
+tmpclaude-*

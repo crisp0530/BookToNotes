@@ -1,5 +1,7 @@
 # BookToNotes - 智能读书笔记引擎
 
+[English](README.md) | 中文
+
 > 一条命令，将任意书籍转化为结构化笔记。
 
 BookToNotes 是一个 Claude Code 技能，自动化整个读书流程：

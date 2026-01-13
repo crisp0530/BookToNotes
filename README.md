@@ -1,5 +1,7 @@
 # BookToNotes
 
+[中文文档](README.zh-CN.md) | English
+
 > One command to transform any book into structured notes using AI.
 
 BookToNotes is a Claude Code skill that automates the entire book reading workflow:
